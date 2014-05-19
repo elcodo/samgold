@@ -1,0 +1,22 @@
+{
+    "name": "elcodo/samgold",
+    "description": "Toolkit for developing Facebook applications.",
+    "keywords": ["facebook", "apps"],
+    "authors": [
+        {
+            "name": "ELCODO",
+            "email": "info@elcodo.pl",
+            "homepage": "http://www.elcodo.pl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "facebook/php-sdk-v4" : "4.0.*",
+        "monolog/monolog": "dev-master",
+        "altorouter/altorouter": "dev-master"
+    },
+    "require-dev": {
+        "doxphp/doxphp": "dev-master"
+    }
+}
